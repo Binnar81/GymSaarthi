@@ -8,6 +8,7 @@ function Signup() {
   const [password, setPassword] = useState("");
   const { signUp } = UserAuth();
   const navigate = useNavigate();
+// eslint-disable-next-line
   const [error,setError]=useState("");
 
   const goTop = () => {

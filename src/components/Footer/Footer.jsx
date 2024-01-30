@@ -13,6 +13,7 @@ function Footer() {
               <img 
               src={FooterLogo}
               className="w-1/8 h-auto"
+              alt="footerlogo"
               />
              <h1 className="text-[22px] font-bold footer-main">GymSaarthi</h1>
              </div>

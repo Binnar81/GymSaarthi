@@ -2,6 +2,7 @@ import TitleRed from "../../images/who-we-are/title-bg.svg";
 import MainButton from "../MainButton";
 
 function Featured() {
+// eslint-disable-next-line no-unused-vars
   const goTop = () => {
     window.scrollTo({
       top: 0,
