@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Logo from "../../images/logo/favicon-32x32.png";
-import NavList from "../Nav/NavList";
+import NavList from "./NavList";
 import { Link } from "react-router-dom";
 import SideImg1 from "../../images/sidebar/1.jpg";
 import SideImg2 from "../../images/sidebar/2.jpg";
